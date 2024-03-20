@@ -1,2 +1,2 @@
 # -List-Restaurants
-Çevredeki restoranları müşteri puanlaması ve yorumlarına göre sıralama , haritadan konum öğrenme , restoranları listeleme
+Listing restaurants by user ratings and comments near area ,locating restaurants by map.
