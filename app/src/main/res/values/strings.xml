@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="trend_restoranlar">Trend Restoranlar</string>
+    <string name="arbys">Arbys</string>
+    <string name="arbys_adres">Restoran adresi buraya</string>
+    <string name="burgerking">Burger King</string>
+    <string name="little">Little Caesars Pizza</string>
+</resources>
