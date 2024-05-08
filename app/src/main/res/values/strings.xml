@@ -5,4 +5,23 @@
     <string name="arbys_adres">Restoran adresi buraya</string>
     <string name="burgerking">Burger King</string>
     <string name="little">Little Caesars Pizza</string>
+
+    <string name="filtrele">Filtrele</string>
+    <string name="mesafe">Mesafe</string>
+    <string name="degerlendirmeler">Değerlendirmeler</string>
+
+    <string name="sifirla">Sıfırla</string>
+    <string name="onayla">Onayla </string>
+
+    <string name="Amerikan">Amerikan</string>
+    <string name="Kore">Kore</string>
+    <string name="italyan">İtalyan</string>
+    <string name="Cin">Çin</string>
+    <string name="meksika">Meksika</string>
+    <string name="tayland">Tayland</string>
+    <string name="avrupa">Avrupa</string>
+    <string name="arap">Arap</string>
+    <string name="hint">Hint</string>
+
+    <string name="img">img</string>
 </resources>
